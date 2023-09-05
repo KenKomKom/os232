@@ -1,3 +1,7 @@
+---
 permalink: LINKS/
-
-Markdown CheatSheet: [Link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+---
+# LINKS
+1. [Markdown CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+   Make better markdown files with this
+2. 
