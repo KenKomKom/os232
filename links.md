@@ -19,3 +19,5 @@ permalink: LINKS/
 5. [Regex](https://www.youtube.com/watch?v=bgBWp9EIlMM&ab_channel=EngineerMan)
 
    The link above will send you to a youtube tutorial which will regex in about 15 minutes
+
+6. [GFG Virtual Memory](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)
