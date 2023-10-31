@@ -1,7 +1,10 @@
 ###https://osp4diss.vlsm.org/ETC/logCodes.txt  
 
+ZCZC W06 200 L02 CLASSROOM related
+ZCZC W06 100 L16 Assignment #06
+ZCZC W06 100 L05 Quiz related including studying
 ZCZC W05 200 L02 CLASSROOM related
-ZCZC W05 100 L15 Assignment #04
+ZCZC W05 100 L15 Assignment #05
 ZCZC W05 100 L05 Quiz related including studying
 ZCZC W04 100 L02 CLASSROOM related
 ZCZC W04 100 L14 Assignment #04
